@@ -71,6 +71,7 @@ src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-p
         </div>
       </div>
     </section>
+    
   <section id="how-it-works">
       <iframe
         id="video"
